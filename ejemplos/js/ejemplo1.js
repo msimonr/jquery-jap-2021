@@ -2,7 +2,7 @@
 
 //Cuando carga todo el HTML
 document.addEventListener('DOMContentLoaded', function() {
-    
+
     //Al darle click
     document.getElementById('agregar').addEventListener('click', function() {
 
@@ -17,6 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 */
+
 
 
 
