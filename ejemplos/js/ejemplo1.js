@@ -1,4 +1,4 @@
-/*
+/*//Version JS vanilla
 
 //Cuando carga todo el HTML
 document.addEventListener('DOMContentLoaded', function() {
