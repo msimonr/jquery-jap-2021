@@ -9,7 +9,8 @@ body {
 }
 
 h1 {
-    color: rgb(0, 255, 136);
+    color: #24252A;
+    background-color: #0088a0;
 }
 
 div {
@@ -17,12 +18,27 @@ div {
     margin: 2em;
 }
 
+.toDo {
+    border: solid 1px #0088a0;
+}
+
+ul {
+    margin: 2em 0;
+}
+
+li {
+    margin: 0.2em;
+    text-align: left;
+    font-size: 1.2em;
+}
+
 img {
     margin: 2em;
     width: 200px;
 }
 
-button {
+button,
+input {
     margin: 0.5em;
-    padding: 0.5em 1em;
+    padding: 0.1em 0.5em;
 }
