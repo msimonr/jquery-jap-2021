@@ -42,3 +42,12 @@ input {
     margin: 0.5em;
     padding: 0.1em 0.5em;
 }
+
+input {
+    width: 20em;
+}
+
+.completada {
+    text-decoration: line-through;
+    color: rgb(66, 122, 2);
+}
